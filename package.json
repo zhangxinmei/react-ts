@@ -31,7 +31,7 @@
     "date-fns": "^1.30.1",
     "fastclick": "^1.0.6",
     "html2canvas": "^1.0.0-alpha.12",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.13",
     "query-string": "^5.1.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
